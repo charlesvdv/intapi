@@ -3,7 +3,7 @@ package http
 import (
 	"strings"
 
-	"github.com/charlesvdv/servapigen/schemas"
+	"github.com/charlesvdv/intapi/schemas"
 )
 
 type OperationDefinition struct {

@@ -1,6 +1,6 @@
 package petstore
 
-import "github.com/charlesvdv/servapigen/schemas"
+import "github.com/charlesvdv/intapi/schemas"
 
 var petSchema = schemas.Object().
 	Element("id", schemas.Integer()).

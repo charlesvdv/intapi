@@ -1,9 +1,9 @@
-# servapigen
+# intapi
 
 > :construction::wrench: Please note this project is still in early stage.
 > Feel free to give your input in the discussions tab or open an issue! 
 
-`servapigen` is a `go` library to declare web service interfaces as code. The project 
+`intapi` is a `go` library to declare web service interfaces as code. The project 
 has the same goal as [openapi](https://www.openapis.org/) but instead of using `json` or 
 `yaml`, the full power of `go` is used. Read more about the *why* in the rationale section.
 

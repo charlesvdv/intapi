@@ -1,3 +1,3 @@
-module github.com/charlesvdv/servapigen
+module github.com/charlesvdv/intapi
 
 go 1.16

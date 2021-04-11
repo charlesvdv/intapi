@@ -1,8 +1,8 @@
 package petstore
 
 import (
-	"github.com/charlesvdv/servapigen/http"
-	"github.com/charlesvdv/servapigen/schemas"
+	"github.com/charlesvdv/intapi/http"
+	"github.com/charlesvdv/intapi/schemas"
 )
 
 var limitParameter = http.QueryString("limit", schemas.Integer()).
